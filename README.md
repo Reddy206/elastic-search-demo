@@ -43,7 +43,7 @@ The application will start on http://localhost:8080.
 
 # Insert a Book:
 
-# Endpoint: POST /api/books
+# Endpoint: POST /api/book
 
 Request Body:
 {
