@@ -59,7 +59,7 @@ Insert a Book
 Request:
 
 curl -X POST \
-  http://localhost:8080/api/books \
+  http://localhost:8080/api/book \
   -H 'Content-Type: application/json' \
   -d '{
     "title": "The Art of Programming",
@@ -70,8 +70,7 @@ Response:
 {
   "id": "1",
   "title": "The Art of Programming",
-  "author": "Donald Knuth",
-  "publicationYear": 1968
+  "author": "Donald Knuth"
 }
 Fetch All Books
 Request:
