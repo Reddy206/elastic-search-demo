@@ -76,9 +76,8 @@ Response:
 Fetch All Books
 Request:
 
-bash
-Copy code
 curl -X GET http://localhost:8080/api/books
+
 Response:
 
 [
