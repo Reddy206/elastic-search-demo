@@ -4,14 +4,14 @@ This Spring Boot application demonstrates the integration of Elasticsearch for m
 
 # Table of Contents
 
-Prerequisites
-Setup
-Configuration
-Running the Application
-API Endpoints
-Sample Requests and Responses
-Contributing
-License
+1.Prerequisites
+2. Setup
+3. Configuration
+4. Running the Application
+5. API Endpoints
+6. Sample Requests and Responses
+7. Contributing
+8. License
 
 # Prerequisites
 Java 8 or higher installed on your machine.
@@ -85,10 +85,10 @@ Response:
   {
     "id": "1",
     "title": "The Art of Programming",
-    "author": "Donald Knuth",
-    "publicationYear": 1968
+    "author": "Donald Knuth"
   }
 ]
-Contributing
+
+# Contributing
 Feel free to contribute to the development of this project. If you find any issues or have suggestions, please create an issue or submit a pull request.
 
